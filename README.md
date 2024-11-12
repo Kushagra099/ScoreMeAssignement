@@ -11,3 +11,9 @@ EmailOnboardingStep.java # Step for email onboarding
 CredentialVerificationStep.java # Step for credential verification (Aadhaar/PAN)
 AccountExistenceVerificationStep.java # Step to verify if the user's account exists
 UserOnboardingProcess.java # Orchestrator for running the onboarding process
+
+
+To run the project:
+1. Clone/download the project.
+2. If you are using an IDE like IntelliJ IDEA or Eclipse, simply open the project.
+3. Run the Application.java class.
